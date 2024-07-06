@@ -1,0 +1,41 @@
+#image {
+  width: 200px;
+  height: 200px;
+}
+.content {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+#footer {
+  text-align: center;
+  color: red;
+  font-size: 40px;
+}
+#props {
+  text-align: center;
+  color: rgb(31, 1, 1);
+  font-size: 40px;
+}
+#proImg {
+  width: 200px;
+  height: 200px;
+  border-radius: 10px;
+}
+#AppImg {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+#childImg {
+  background-color: rgba(240, 240, 240, 0.788);
+  border-radius: 10px;
+  width: 200px;
+}
+#title {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
